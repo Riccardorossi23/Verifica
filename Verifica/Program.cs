@@ -43,7 +43,7 @@ namespace Verifica
         int n;
         do
         {
-            n = int.Parse(Console.ReadLine());
+            n = int.Parse(Console.ReadLine();
             if (n != 0)
                 c++;
         } while (n != 0);
